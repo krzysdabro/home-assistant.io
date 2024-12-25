@@ -26,3 +26,10 @@ You must have a [WeConnect](https://www.myvolkswagen.net/) account and a Volkswa
 {% note %}
 To use the lock feature, you must complete ID verification in the WeConnect service and set up S-PIN during integration configuration.
 {% endnote %}
+
+## Removing the integration
+
+This integration follows standard integration removal. No extra steps are required.
+
+{% include integrations/remove_device_service.md %}
+
